@@ -1,13 +1,22 @@
 # Ristretto
+### [Paper](https://arxiv.org/pdf/)  | [Code](https://github.com/maojialiang/ristretto) 
+
 Ristretto is a powerful Vision Language Model (VLM) that supports inputs such as text, image, and video, and possesses strong abilities in understanding, reasoning, and generation.
 
-# Release
-**2024.03.25** We released the Ristretto API.
+# News
+**[2024/03/31]** Paper released on [arXiv](https://arxiv.org/abs/).
+
+**[2024/03/25]** We released the Ristretto API.
 
 # Model
+
+Code and Weight will be released after the company verifies.
+
+
 |            Model            |    Date    |                                           API                                            |                     Note                     |
 | :-------------------------: | :--------: | :-------------------------------------------------------------------------------------------: | :------------------------------------------: |
 | Ristretto-4B | 2025.03.25 | [infer](./ristretto_api.py) |                  Qwen2.5-3B + SigLIP2-400M                  |
+
 
 # How to Use?
 ```python
